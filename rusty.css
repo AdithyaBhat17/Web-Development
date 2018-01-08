@@ -1,0 +1,64 @@
+body{
+	background-image: url('4k/4kbs.jpg');
+	background: transparent(20%);
+}
+
+
+h1{	
+	background-color:white;
+	border-radius:5px;
+	width:20%;
+	font-family: Nexa ;
+	display:block;
+	margin:auto;
+	text-align:center;
+	color:purple;
+}
+
+h3{	
+	background-color:white;
+	border-radius:5px;
+	width:15%;
+	height:10%;
+	position: relative;
+	top:-30%;
+	display:block;
+	margin:0 auto;
+	font-family:Nexa Light;
+	text-align:center;
+	color:grey;
+}
+
+.container{
+	position: relative;
+	top:30%;
+	width:25%;
+	height:25%;
+	border-radius: 2px;
+	border-color: purple;
+	border:1px;
+	margin:auto;
+	display: block;
+}
+
+p{
+	font-family: Nexa light;
+	text-align:center;
+	color:white;
+}
+
+ul{
+	font-family: Nexa Light;
+	text-align:center;
+	color:white;
+}
+
+li{
+	margin:auto;
+	display: block;
+}
+
+a{
+	color:grey;
+	text-decoration: none;
+}
