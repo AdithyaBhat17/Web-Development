@@ -1,6 +1,5 @@
 body{
 	background-image: url('4kbs.jpg');
-	background: transparent(20%);
 }
 
 
@@ -15,18 +14,7 @@ h1{
 	color:purple;
 }
 
-@media screen and (max-width:40.5em){
-	h1{
-		background-color:white;
-		border-radius:5px;
-		width:40%;
-		font-family: Nexa ;
-		display:block;
-		margin:auto;
-		text-align:center;
-		color:purple;
-	}
-}
+
 
 h3{	
 	background-color:white;
@@ -42,21 +30,7 @@ h3{
 	color:grey;
 }
 
-@media screen and (max-width:40.5em){
-	h3{	
-	background-color:white;
-	border-radius:5px;
-	width:30%;
-	height:10%;
-	position: relative;
-	top:-30%;
-	display:block;
-	margin:0 auto;
-	font-family:Nexa Light;
-	text-align:center;
-	color:grey;
-}
-}
+
 .container{
 	position: relative;
 	top:30%;
@@ -69,19 +43,7 @@ h3{
 	display: block;
 }
 
-@media screen and (max-width:40.5em){
-	.container{
-	position: relative;
-	top:30%;
-	width:50%;
-	height:50%;
-	border-radius: 5px;
-	border-color: purple;
-	border:1px;
-	margin:auto;
-	display: block;
-}
-}
+
 p{
 	font-family: Nexa light;
 	text-align:center;
