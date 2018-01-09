@@ -8,7 +8,7 @@ body{
 	margin:20px auto;
 	padding:20px;
 	font-family: Source Sans Pro;
-	width:66%;
+	width:64%;
 
 }
 
@@ -22,7 +22,7 @@ body{
 h2{
 	color:#2c3e50;
 	text-transform: capitalize;
-	font-size:4rem;
+	font-size:4em;
 	border-bottom:1px solid #bdc3c7 ;
 	width:40%;
 }
